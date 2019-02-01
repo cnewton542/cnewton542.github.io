@@ -1,0 +1,8 @@
+body {background-color:yellow;font-size:14pt}
+
+nav a{
+    display: inline-block;
+    border:2px solid black;
+    padding: 10px;
+    margin: 5px;
+}
